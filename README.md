@@ -1,2 +1,2 @@
-# Myblogs
+# MyBlogs
 blogs in guiyujin.com
